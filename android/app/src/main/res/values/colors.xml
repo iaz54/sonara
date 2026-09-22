@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sonara_bg">#09090b</color>
+    <color name="sonara_accent">#b7c4ce</color>
+    <color name="sonara_fg">#f3f1ec</color>
+</resources>

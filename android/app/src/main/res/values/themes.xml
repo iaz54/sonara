@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Sonara" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@color/sonara_bg</item>
+        <item name="android:statusBarColor">@color/sonara_bg</item>
+        <item name="android:navigationBarColor">@color/sonara_bg</item>
+        <item name="android:colorPrimary">@color/sonara_accent</item>
+        <item name="colorPrimary">@color/sonara_accent</item>
+        <item name="colorPrimaryDark">@color/sonara_bg</item>
+        <item name="colorAccent">@color/sonara_accent</item>
+    </style>
+</resources>

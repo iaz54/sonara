@@ -1,0 +1,1 @@
+async function e(e){return{ok:!1,error:`offline`}}export{e as arrangeSong};
